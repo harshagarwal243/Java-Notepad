@@ -1,2 +1,2 @@
-# Java-Notepad
-it is a notepad for Desktop with full functioning 
+# Java Notepad
+It is a notepad for Desktop with full functioning 
